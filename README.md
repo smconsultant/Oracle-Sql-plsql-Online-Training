@@ -1,0 +1,6 @@
+# Oracle-Sql-plsql-Online-Training
+Oracle PLSQL is a procedural language designed to enhance SQL with statements and syntax which can be compiled and run in SQL Database server
+Oracle PLSQL is the combination of Oracle SQL and procedural attributes. It is a well-developed advance version of Oracle to manage big organization database in a simpler way. Under plsql programming training modules at S & M consultant going to cover cursors, function, stored procedures, syntax on table structures etc.
+Oracle PLSQL is a procedural language designed to enhance SQL with statements and syntax which can be compiled and run in SQL Database server. If you are interested to be a successful PLSQL programmer contact us at (+1) 650-585-2312 Oracle PLSQL Online Training programme USA.
+     Our training modules are based on advance organizational level requirement to train you in a high level data base management. All our trainers are Oracle certified and providing training according to your time schedule with fully 100% practical based programme.  Contact us today and book a slot according to your time convince and get fully verged practical and theoretical knowledge with advance functionalities.
+http://smconsultant.com/oracle-plsql-training-course-content-usa-uk-india-canada-singapore/
